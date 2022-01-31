@@ -17,7 +17,7 @@ I was tasked with making a coding quiz that would ask someone some questions and
 
 * If you wish to install this for future development you can follow these steps
     1. Fork the repository from Github (The link to the github is: 
-        https://github.com/EvoL1e/Coding-Quiz)
+        https://github.com/EvoL1e/Code-Quiz)
     2. Clone the repository by going to the green code button
     3. Open up GitBash (Windows) or Terminal (MacOs) and write down git clone (SSH key link from the green code button)
     4. Once cloned go to wherever your cloned files are set up
@@ -25,6 +25,7 @@ I was tasked with making a coding quiz that would ask someone some questions and
 
 ## Usage
 
+Go to this site https://evol1e.github.io/Code-Quiz/
 To use the quiz just hit the "start game" button. Afterwards it'll ask you some questions and all you have to do is answer them by clicking one of the buttons with the answer. If you get it wrong you'll see the timer go down quicker. It'll keep track of your score the entire time while doing so.
 
 ## Credits
