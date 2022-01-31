@@ -1,0 +1,36 @@
+h1 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    background-color: aliceblue;
+    font-size: 1rem;
+    border: solid 2px;
+    padding: 4px;
+    margin: 4px;
+   border-radius: 8px;
+}
+
+.game-clock {
+    text-align: center;
+    font-size: large;
+}
+
+.container {
+    text-align: center;
+}
+
+.results{
+    text-align: center;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.user-high-score {
+    text-align: left;
+}
+
+.user-initials {
+    text-align: left;
+}
